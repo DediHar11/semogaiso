@@ -11,17 +11,5 @@
         "src": "/(.*)",
         "dest": "public/index.php"
       }
-    ],
-    "env": {
-      "APP_ENV": "production",
-      "APP_KEY": "base64:lk0XyesitsiOrg2OBDKNS4Dfvg6P8JdASYJFLj1FE1U=",
-      "APP_DEBUG": "false",
-      "APP_URL": "https://semogaiso.vercel.app/",
-      "DB_CONNECTION": "mysql",
-      "DB_HOST": "127.0.0.1",
-      "DB_PORT": "3306",
-      "DB_DATABASE": "semogakena",
-      "DB_USERNAME": "root",
-      "DB_PASSWORD": ""
-    }
-  }
+    ]
+}
